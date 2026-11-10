@@ -29,10 +29,4 @@ Helps in visually evaluating model accuracy and performance
 ✅ Random Forest performed best due to its ensemble learning approach
 ✅ Handling multicollinearity improved model stability
 ✅ Feature relationships significantly impact prediction accuracy
-# 🛠️ Tech Stack
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+
